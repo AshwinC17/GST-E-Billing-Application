@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/your-username/gst-e-billing-application.git
+   git clone https://github.com/AshwinC17/GST-E-Billing-Application
    ```
 
 2. **Open in Android Studio:**
